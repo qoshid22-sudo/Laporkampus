@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248050385117",
+    "project_id": "lapor-kampus-bbacb",
+    "storage_bucket": "lapor-kampus-bbacb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248050385117:android:72f656202080c376691b34",
+        "android_client_info": {
+          "package_name": "com.example.laporkampus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Sx2hmlBqfcy0amxIglMhsS5nP5UvMIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

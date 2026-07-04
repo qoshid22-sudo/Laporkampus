@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LaporKampus</string>
+    <string name="lapor_kampus">Lapor Kampus</string>
+    <string name="laporkan_kerusakan_fasilitas_demi_kenyamanan_bersama">Laporkan kerusakan fasilitas demi kenyamanan bersama</string>
+    <string name="email_kampus_mahasiswa_ac_id">Email Kampus (@mahasiswa.ac.id)</string>
+    <string name="password_minimal_8_karakter">Password (Minimal 8 Karakter)</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun_daftar_di_sini">Belum punya akun? Daftar di sini</string>
+    <string name="sudah_punya_akun_masuk_di_sini">Sudah punya akun? Masuk di sini</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="sub_daftar">Buat akun baru untuk mulai melaporkan fasilitas kampus</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="daftar_sekarang">Daftar Sekarang</string>
+</resources>
